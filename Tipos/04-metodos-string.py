@@ -14,7 +14,7 @@ print(animal.strip().capitalize())
 print(animal.title())
 # title() transforma en mayuscula la primera letra de cada palabra del estring osea lo hace un titulo"""
 print(animal.strip())
-# strip() elimina espacio que esta a la izq y a la derecha"""
+# strip() elimina espacios que esta a la izq y a la derecha"""
 
 print(animal.lstrip())
 # strip() elimina espacio que esta a la izq"""
