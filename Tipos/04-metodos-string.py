@@ -11,6 +11,7 @@ print(animal.strip().capitalize())
 # capitalize() toma el primer caracter de todo el string y lo hace en mayuscula"""
 
 
+
 print(animal.title())
 # title() transforma en mayuscula la primera letra de cada palabra del estring osea lo hace un titulo"""
 print(animal.strip())
