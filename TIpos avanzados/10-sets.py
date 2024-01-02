@@ -19,7 +19,7 @@ segundo = set(segundo)
 # print(primer - segundo)  # diferencia
 # muestra solamente los datos que estan en el conjunto de la izq y se quitan los que estan a la derecha
 
-print(primer ^ segundo)  # diferencia simetrica
+# print(primer ^ segundo)  # diferencia simetrica
 # elimina los numeros que estan en ambos sets  y muestra los que no
 
 if 5 in segundo:
